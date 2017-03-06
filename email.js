@@ -5,9 +5,9 @@
 Module.register("email",{
 
     defaults : {
-        user: 'a@b.com',
-        password: 'xxx',
-        host: 'jjj.kkk.com',
+        user: 'charu.param91@gmail.com',
+        password: 'Charanya@123',
+        host: 'imap.gmail.com',
         port: 993,
         tls: true,
         authTimeout: 10000,
